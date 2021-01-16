@@ -1,0 +1,11 @@
+
+{
+  "uuid": "%uuid%",
+  "name": "ServerTPS",
+  "mainClass": "de.techgamez.pleezon.Main",
+  "author": "Pleezon / AntiBannSystem",
+  "transformerClass": "de.techgamez.pleezon.packets.ACTransformer",
+  "version": 1,
+  "description": "Provides modules to monitor the current server's TPS.",
+  "icon": ""
+}
